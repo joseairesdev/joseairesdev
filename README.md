@@ -1,7 +1,7 @@
 ### Olá! me chamo José Aires 👋
 
 - 🎓 Graduado em Sistemas de Informação 
-- 📜 Estudando React js, Typescript
+- 📜 React js, Next js, Typescript
 
 
  <div>
